@@ -1,4 +1,5 @@
 Versio 0.0.1 
 13.10.2026
 
- - Lisätty GitHub -päivitykset
+- Lisätty GitHub -päivitykset
+- Korjattu lieviä onglemia
