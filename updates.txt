@@ -1,1 +1,4 @@
-haista sipuli
+Versio 0.0.1 
+13.10.2026
+
+ - Lisätty GitHub -päivitykset
