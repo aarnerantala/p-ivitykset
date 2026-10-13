@@ -1,5 +1,1 @@
-Versio 0.0.1 
-13.10.2026
-
- - Lisätty GitHub -päivitykset
- - Sipuli soittaa, vai soittaako?
+haista sipuli
